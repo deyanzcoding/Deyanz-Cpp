@@ -1,0 +1,3 @@
+
+        //     smallest = arr[i];
+        // }
