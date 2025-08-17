@@ -1,0 +1,17 @@
+Polymophism :
+	"One name ==> Multiple forms"
+	>>To make many function of same name and manage it.
+		
+		
+			Divided into 2 types:
+			
+			1)Compile-Time Polymorphism
+			  a) 
+			     i)function overloading  
+			    ii)constructor overloading
+			
+			  b)operator overloading          
+			
+			2)Run-Time Polymorphism
+			  c)virtual function
+

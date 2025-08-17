@@ -1,0 +1,20 @@
+Operator Overloading :
+->most important feature of c++
+
+    "Using the concept of operator overloading, we can overload
+    any built-in-operator, i-e: we can assign a new definition
+    of existing operator.
+
+    Some operators can't be overloaded:
+    1) Scope resolution operator (::)
+    2) Class member access operator (.,*)
+    3) Size of operator (sizeof)
+    4) Conditional operator (? :)
+
+
+    Example :
+we can add 3 + 3 = 6
+                   but if we want to add objects like:
+                   cc = aa + bb;
+
+                   to assign new definition to operators.
