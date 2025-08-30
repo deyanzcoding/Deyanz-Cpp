@@ -1,0 +1,16 @@
+#include<fstream>
+#include<iostream>
+using namespace std;
+
+int main() {
+	char ch;
+	ifstream reads("D:\\Utility Apps/deyan.txt");
+
+	while(!reads.eof()) {
+		reads.get(ch);
+		cout<<ch<<endl;
+	}
+	reads.close();
+
+	return 0;
+}

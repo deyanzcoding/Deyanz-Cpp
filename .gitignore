@@ -1,0 +1,37 @@
+# Ignore object files
+*.o
+*.obj
+
+# Ignore executable files
+*.exe
+*.out
+
+# Ignore dependency files
+*.d
+
+# Ignore build directories
+build/
+bin/
+debug/
+release/
+
+# Ignore IDE/project files (e.g., Visual Studio, CLion)
+*.sln
+*.vcxproj
+*.vcxproj.filters
+*.suo
+*.user
+*.ipch
+*.sdf
+*.opensdf
+*.bak
+
+# Ignore macOS-specific files
+.DS_Store
+
+# Ignore temporary files
+*~
+*.swp
+
+# Ignore logs
+*.log

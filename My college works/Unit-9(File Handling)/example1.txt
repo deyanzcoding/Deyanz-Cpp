@@ -1,0 +1,1 @@
+This is a program that tells you how to write to a file.
